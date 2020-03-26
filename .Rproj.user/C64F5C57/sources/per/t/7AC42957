@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1585238217198.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2311499533",
+    "id" : "7AC42957",
+    "lastKnownWriteTime" : 1585246818,
+    "last_content_update" : 1585246818731,
+    "path" : "~/Documents/Quick Access/Spring 2020/CS 424/LitteratiProj/app.R",
+    "project_path" : "app.R",
+    "properties" : {
+        "cursorPosition" : "10,5",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
